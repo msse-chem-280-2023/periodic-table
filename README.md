@@ -1,4 +1,4 @@
-# Python Package Best Practices - 2020 MolSSI Webinar Series
+# Chem 280 - Periodic Table Website
 
 This repo contains files for a periodic table website.
 
