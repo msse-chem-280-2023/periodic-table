@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Caesium
+title: Cesium
 ---
 
 Symbol : Cs
