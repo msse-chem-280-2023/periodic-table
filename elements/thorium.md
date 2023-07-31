@@ -1,6 +1,6 @@
 ---
 layout: page
-title: element name
+title: thorium
 ---
 
 Symbol: Th
