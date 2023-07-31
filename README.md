@@ -1,6 +1,6 @@
 # Chem 280 - Periodic Table Website
 
-This repo contains files for a periodic table website.
+This repo contains files for a periodic table website. The website is hosted using GitHub pages. You can see it here - [https://msse-chem-280-2023.github.io/periodic-table/](https://msse-chem-280-2023.github.io/periodic-table/)
 
 This website uses the `minima` theme.
 
