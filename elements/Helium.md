@@ -4,4 +4,4 @@ title: Helium
 ---
 
 Symbol : He  
-Atomic Number : 2  
+Atomic Number : 2
