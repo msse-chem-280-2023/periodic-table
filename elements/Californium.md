@@ -3,8 +3,8 @@ layout: page
 title: Californium
 ---
 
-Symbol : Cf 
-Atomic Number : 98  
+Symbol : Cf
+Atomic Number : 98
 
 Californium is one of the sixteen elements discovered at UC Berkeley.
 It is a radioactive element discovered in 1950.
