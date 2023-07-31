@@ -5,5 +5,5 @@ title: Terbium
 
 Symbol : Tb
 Atomic number : 65 
-Category: rare earth metal
-Discovery date: 1843
+Terbium is a rare earth metal. It is the 9th lanthanide. 
+It was disocvered in 1843, and is malleable and ductile.
