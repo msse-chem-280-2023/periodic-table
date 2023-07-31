@@ -1,4 +1,4 @@
-#Group assignment Day 1
+# Group assignment Day 1
 
 ---
 layout: page
