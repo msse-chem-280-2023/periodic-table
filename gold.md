@@ -1,4 +1,3 @@
-# Periodic Table element Gold
 ---
 layout : page
 title: GOLD
@@ -6,3 +5,4 @@ title: GOLD
 
 Symbol : Au
 Atomic Number : 79
+
