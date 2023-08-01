@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ELEMENT_NAME
+title: Iridium
 ---
 
 Symbol : Ir
